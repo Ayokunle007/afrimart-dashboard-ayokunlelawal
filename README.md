@@ -38,7 +38,7 @@ Nigeria generates 15.5% of revenue but only at 18.65% margin, driven partly by R
 * ReadME.md
 * dashboard_screenshot.png
 
-## Conclusio
+## Conclusion
 
 The AfriMart analysis provided a clear view of sales and profitability across products, countries, and years. The dashboard highlighted key areas including product concentration, the 2026 revenue decline, and Nigeria's lower profit margin.
 
