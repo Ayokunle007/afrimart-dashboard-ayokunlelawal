@@ -21,10 +21,11 @@ An Excel-based sales analytics dashboard built to evaluate AfriMart's revenue, p
 
 Tool Used: Excel
 
+Dataset: AfriMart_Sales_Dataset.xlsx (700 transactions, 10 countries, 7 products)
+
 ## Dashboard preview
 <img width="926" height="411" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/9c539564-2f81-4d4f-82fe-71101f14621c" />
 
-Dataset: AfriMart_Sales_Dataset.xlsx (700 transactions, 10 countries, 7 products)
 ## Key Findings
 ## Insight 1 — Revenue Concentration
 Rice drives 58.8% of revenue at just 15.56% margin. There is a need to diversify growth toward higher-margin products such as Palm Oil.
