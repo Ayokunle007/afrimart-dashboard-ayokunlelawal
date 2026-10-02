@@ -33,10 +33,10 @@ Revenue fell by 9.8% in 2026, driven mainly by a 16.1% decline in Rice profit ma
 Nigeria generates 15.5% of revenue but only at 18.65% margin, driven partly by Rice's 70.3% revenue share. Reviewing product mix and costs is necessary to improve profit margin.
 
 ## Files in Repository
-* AfriMart_Dashboard_Ayokunle.xlsm
-* AfriMart_Sales_Dataset.xlsx
-* ReadME.md
-* dashboard_screenshot.png
+- [Sales_Dashboard](AfriMart_Dashboard_Ayokunle.xlsm)
+- [Sales_DataSet](AfriMart_Sales_Dataset.xlsx)
+- ReadME.md
+- [Dashboard_Screenshot](dashboard_screenshot.png)
 
 ## Conclusion
 
