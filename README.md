@@ -21,6 +21,9 @@ An Excel-based sales analytics dashboard built to evaluate AfriMart's revenue, p
 
 Tool Used: Excel
 
+## Dashboard preview
+<img width="926" height="411" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/9c539564-2f81-4d4f-82fe-71101f14621c" />
+
 Dataset: AfriMart_Sales_Dataset.xlsx (700 transactions, 10 countries, 7 products)
 ## Key Findings
 ## Insight 1 — Revenue Concentration
@@ -42,10 +45,4 @@ Nigeria generates 15.5% of revenue but only at 18.65% margin, driven partly by R
 
 The AfriMart analysis provided a clear view of sales and profitability across products, countries, and years. The dashboard highlighted key areas including product concentration, the 2026 revenue decline, and Nigeria's lower profit margin.
 
-The key takeaway is that strong revenue does not always translate into strong profitability. By identifying where revenue is concentrated, where performance is declining, and where margins are weaker, businesses can move beyond reporting numbers to make more informed decisions on product mix, pricing, and growth strategy.**
-
-
-
-## Dashboard preview
-<img width="926" height="411" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/9c539564-2f81-4d4f-82fe-71101f14621c" />
-
+The key takeaway is that strong revenue does not always translate into strong profitability. By identifying where revenue is concentrated, where performance is declining, and where margins are weaker, businesses can move beyond reporting numbers to make more informed decisions on product mix, pricing, and growth strategy.
